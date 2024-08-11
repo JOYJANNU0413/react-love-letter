@@ -37,7 +37,7 @@ const LoveLetter = () => {
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
        My Dear Chelsie Angeleena 💜<br />
        Happy ✨ Anniversary , My Love 💐🥳<br /> 
-       Our journey together has been filled with love, memories, trust, shared dreams and endless joy 🥰<br /> 
+       Our journey together has been filled with lots of love, memories, trust, shared dreams and endless joy 🥰<br /> 
        I love you sweetheart 🤗💖, I'm always yours 💝<br />
        -BAKKI
       </div>

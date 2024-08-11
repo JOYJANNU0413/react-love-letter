@@ -36,11 +36,9 @@ const LoveLetter = () => {
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
        My Dear Chelsie Angeleena 💜,<br />
-       Happy 2nd Anniversary Sweetheart 💐<br />
-       I want to express how deeply I cherish every moment with you 🤗.<br /> 
-       Our journey together has been filled with love, laughter, and endless joy 🥰.<br /> 
-       I look forward to many more years of creating memories and sharing our dreams.<br />
-       With all my love, i love youuu neyy 💖, I'm always yours 💝<br />
+       Happy Anniversary,My Love 💐<br /> 
+       Our journey together has been filled with love,laughter,and endless joy🥰.<br /> 
+       i love youuu sweetheart 🤗💖, I'm always yours 💝<br />
        -BAKKI
       </div>
       <audio ref={audioRef} src={audioFile} onError={(e) => console.error('Audio error:', e.message)} />
